@@ -559,6 +559,10 @@ button:focus {
     background-color: #93738c;
 }
 
+.mb-maroon {
+    background-color: maroon;
+}
+
 
 
 /*Percentage Classes */
@@ -576,6 +580,11 @@ button:focus {
 .fifty-percent {
     height: inherit;
     width: 50%;
+}
+
+seventy-five-percent {
+    height: inherit;
+    width: 75%;
 }
 
 
