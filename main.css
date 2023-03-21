@@ -560,7 +560,7 @@ button:focus {
 }
 
 .mb-maroon {
-    background-color: maroon;
+    background-color: #bf3160;
 }
 
 
@@ -582,7 +582,7 @@ button:focus {
     width: 50%;
 }
 
-seventy-five-percent {
+.seventy-five-percent {
     height: inherit;
     width: 75%;
 }
